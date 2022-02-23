@@ -1,0 +1,27 @@
+Class: CS111
+Teachers:
+Klein, Steve
+White, Bill
+Class: CS108
+Teachers:
+Tetzner, Lenora
+Class: CS140
+Teachers:
+Tetzner, Lenora
+Tornaritis, Socratis
+Klein, Steve
+White, Bill
+Class: CS340
+Teachers:
+Tetzner, Lenora
+White, Bill
+Class: CS150
+Teachers:
+Tetzner, Lenora
+Tornaritis, Socratis
+Klein, Steve
+Class: CS240
+Teachers:
+Tetzner, Lenora
+Tornaritis, Socratis
+Klein, Steve
